@@ -35,9 +35,9 @@ strgReverseLetters
 PART 2 
 
 encryptCaesar
-- tests basic encryption, key 0, mixed case, digits, and wrap around
+- tests basic encryption, key 0, mixed case, digits, and wrap around, negative keys 
 - tests NULL pointers returning -2 and buffer too small returning -1
 
 decryptCaesar
-- tests basic decryption, key 0, mixed case, digits, and wrap around
+- tests basic decryption, key 0, mixed case, digits, and wrap around, negative keys
 - tests NULL returning -2, missing EOM returning -1, and plaintext length 0 returning 0
