@@ -1,3 +1,5 @@
+//Anjana Kummetha 
+//NETID: 117162837
 CC      = gcc
 CFLAGS = -Wall -Wextra -std=c11 -I/opt/homebrew/include
 TESTFLAGS = -lcriterion

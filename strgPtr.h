@@ -1,3 +1,6 @@
+//Anjana Kummetha 
+//NETID: 117162837
+
 #ifndef STRGPTR_H
 #define STRGPTR_H
 #include <stddef.h>
